@@ -19,13 +19,14 @@ ScaleKeep is a mobile application designed to help reptile owners manage and tra
 - Feeding schedule tracking
 - Weight and shedding records
 - Care reminders and notifications
+- Photo album
 - Data export functionality
 
 ## User Accounts and Data
 
 ### Your Data
 
-You are responsible for the accuracy and completeness of the data you enter into the App. We recommend regularly backing up your data using iCloud sync or the export feature.
+You are responsible for the accuracy and completeness of the data you enter into the App. We recommend regularly backing up your data using the export feature.
 
 ### Data Loss
 
