@@ -3,9 +3,30 @@ layout: default
 title: 利用規約 - ScaleKeep
 ---
 
+<div class="page-nav">
+  <a href="index-ja">ホーム</a> &rsaquo; 利用規約
+  &nbsp;|&nbsp; <a href="terms-of-service-en">English</a>
+</div>
+
 # 利用規約
 
 **最終更新日: 2026年1月2日**
+
+<div class="toc" markdown="1">
+<h4>目次</h4>
+
+- [規約への同意](#規約への同意)
+- [サービスの説明](#サービスの説明)
+- [ユーザーアカウントとデータ](#ユーザーアカウントとデータ)
+- [サブスクリプションとアプリ内課金](#サブスクリプションとアプリ内課金)
+- [適切な使用](#適切な使用)
+- [知的財産権](#知的財産権)
+- [免責事項](#免責事項)
+- [責任の制限](#責任の制限)
+- [規約の変更](#規約の変更)
+- [準拠法](#準拠法)
+- [お問い合わせ](#お問い合わせ)
+</div>
 
 ## 規約への同意
 
@@ -108,4 +129,9 @@ ScaleKeepは、爬虫類の飼い主がペットのケアを管理・追跡す�
 
 ---
 
-[ホームに戻る](./)
+<div class="page-footer">
+  <a href="index-ja">ホーム</a>
+  <a href="terms-of-service-en">English Version</a>
+  <a href="privacy-policy-ja">プライバシーポリシー</a>
+  <a href="support-ja">サポート</a>
+</div>

@@ -3,6 +3,11 @@ layout: default
 title: Privacy Policy - ScaleKeep
 ---
 
+<div class="page-nav">
+  <a href="./">Home</a> &rsaquo; Privacy Policy
+  &nbsp;|&nbsp; <a href="privacy-policy-ja">日本語</a>
+</div>
+
 # Privacy Policy
 
 **Last Updated: January 2, 2026**
@@ -87,4 +92,9 @@ If you have any questions about this Privacy Policy, please contact us at:
 
 ---
 
-[Back to Home](./)
+<div class="page-footer">
+  <a href="./">Home</a>
+  <a href="privacy-policy-ja">日本語版</a>
+  <a href="terms-of-service-en">Terms of Service</a>
+  <a href="support-en">Support</a>
+</div>

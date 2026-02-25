@@ -3,9 +3,30 @@ layout: default
 title: Terms of Service - ScaleKeep
 ---
 
+<div class="page-nav">
+  <a href="./">Home</a> &rsaquo; Terms of Service
+  &nbsp;|&nbsp; <a href="terms-of-service-ja">日本語</a>
+</div>
+
 # Terms of Service
 
 **Last Updated: January 2, 2026**
+
+<div class="toc" markdown="1">
+<h4>Table of Contents</h4>
+
+- [Agreement to Terms](#agreement-to-terms)
+- [Description of Service](#description-of-service)
+- [User Accounts and Data](#user-accounts-and-data)
+- [Subscription and In-App Purchases](#subscription-and-in-app-purchases)
+- [Acceptable Use](#acceptable-use)
+- [Intellectual Property](#intellectual-property)
+- [Disclaimers](#disclaimers)
+- [Limitation of Liability](#limitation-of-liability)
+- [Changes to Terms](#changes-to-terms)
+- [Governing Law](#governing-law)
+- [Contact Us](#contact-us)
+</div>
 
 ## Agreement to Terms
 
@@ -108,4 +129,9 @@ If you have any questions about these Terms, please contact us at:
 
 ---
 
-[Back to Home](./)
+<div class="page-footer">
+  <a href="./">Home</a>
+  <a href="terms-of-service-ja">日本語版</a>
+  <a href="privacy-policy-en">Privacy Policy</a>
+  <a href="support-en">Support</a>
+</div>

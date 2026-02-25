@@ -3,6 +3,11 @@ layout: default
 title: Specified Commercial Transactions Act - ScaleKeep
 ---
 
+<div class="page-nav">
+  <a href="./">Home</a> &rsaquo; Commercial Transactions
+  &nbsp;|&nbsp; <a href="tokushoho-ja">日本語</a>
+</div>
+
 # Specified Commercial Transactions Act Disclosure
 
 ## Business Name
@@ -15,7 +20,7 @@ Shigeo Suita
 
 ## Business Address
 
-Rishocho, Kamigyo-ku, Kyoto-shi, Kyoto 602-8343, Japan
+Dai-2 Kyoto Building 402, 227 Daikoku-cho, Shichijo-dori Aburanokoji-higashiiru, Shimogyo-ku, Kyoto-shi, Kyoto, 600-8223, Japan
 
 *Please contact us via email as we cannot receive postal mail at the above address.
 
@@ -59,4 +64,9 @@ iPhone with iOS 17.0 or later
 
 ---
 
-[Back to Home](./)
+<div class="page-footer">
+  <a href="./">Home</a>
+  <a href="tokushoho-ja">日本語版</a>
+  <a href="privacy-policy-en">Privacy Policy</a>
+  <a href="terms-of-service-en">Terms of Service</a>
+</div>

@@ -3,6 +3,11 @@ layout: default
 title: プライバシーポリシー - ScaleKeep
 ---
 
+<div class="page-nav">
+  <a href="index-ja">ホーム</a> &rsaquo; プライバシーポリシー
+  &nbsp;|&nbsp; <a href="privacy-policy-en">English</a>
+</div>
+
 # プライバシーポリシー
 
 **最終更新日: 2026年1月2日**
@@ -87,4 +92,9 @@ ScaleKeep（以下「当アプリ」）は、お客様のプライバシー保�
 
 ---
 
-[ホームに戻る](./)
+<div class="page-footer">
+  <a href="index-ja">ホーム</a>
+  <a href="privacy-policy-en">English Version</a>
+  <a href="terms-of-service-ja">利用規約</a>
+  <a href="support-ja">サポート</a>
+</div>

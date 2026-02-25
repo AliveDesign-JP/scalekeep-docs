@@ -4,6 +4,11 @@ title: Support
 lang: en
 ---
 
+<div class="page-nav">
+  <a href="./">Home</a> &rsaquo; Support
+  &nbsp;|&nbsp; <a href="support-ja">日本語</a>
+</div>
+
 # ScaleKeep Support
 
 Support page for "ScaleKeep" - the reptile care log app.
@@ -137,3 +142,10 @@ The following reptiles are preset. You can also register any species as a "Custo
 ---
 
 *Last updated: January 2026*
+
+<div class="page-footer">
+  <a href="./">Home</a>
+  <a href="support-ja">日本語版</a>
+  <a href="privacy-policy-en">Privacy Policy</a>
+  <a href="terms-of-service-en">Terms of Service</a>
+</div>

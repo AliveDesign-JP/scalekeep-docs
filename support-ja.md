@@ -4,6 +4,11 @@ title: サポート
 lang: ja
 ---
 
+<div class="page-nav">
+  <a href="index-ja">ホーム</a> &rsaquo; サポート
+  &nbsp;|&nbsp; <a href="support-en">English</a>
+</div>
+
 # ScaleKeep サポート
 
 爬虫類飼育記録アプリ「ScaleKeep」のサポートページです。
@@ -137,3 +142,10 @@ lang: ja
 ---
 
 *最終更新: 2026年1月*
+
+<div class="page-footer">
+  <a href="index-ja">ホーム</a>
+  <a href="support-en">English Version</a>
+  <a href="privacy-policy-ja">プライバシーポリシー</a>
+  <a href="terms-of-service-ja">利用規約</a>
+</div>

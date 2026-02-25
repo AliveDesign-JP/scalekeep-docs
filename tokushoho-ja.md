@@ -3,6 +3,11 @@ layout: default
 title: 特定商取引法に基づく表記 - ScaleKeep
 ---
 
+<div class="page-nav">
+  <a href="index-ja">ホーム</a> &rsaquo; 特定商取引法に基づく表記
+  &nbsp;|&nbsp; <a href="tokushoho-en">English</a>
+</div>
+
 # 特定商取引法に基づく表記
 
 ## 販売業者
@@ -15,7 +20,7 @@ AliveDesign
 
 ## 所在地
 
-〒602-8343 京都府京都市上京区利生町
+〒600-8223 京都府京都市下京区七条通油小路東入大黒町227番地第２キョートビル402
 
 ※上記住所への郵送物は受け取れませんので、お問い合わせはメールにてお願いいたします。
 
@@ -59,4 +64,9 @@ iOS 17.0以降を搭載したiPhone
 
 ---
 
-[ホームに戻る](./)
+<div class="page-footer">
+  <a href="index-ja">ホーム</a>
+  <a href="tokushoho-en">English Version</a>
+  <a href="privacy-policy-ja">プライバシーポリシー</a>
+  <a href="terms-of-service-ja">利用規約</a>
+</div>
