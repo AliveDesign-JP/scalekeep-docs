@@ -97,6 +97,7 @@ When using the community feed, you agree not to post content that:
 - Infringes on the intellectual property rights of others
 - Contains spam, commercial solicitations, or misleading information
 - Contains links to external websites
+- Shares personal contact information (phone numbers, email addresses, social media accounts)
 - Violates any applicable laws or regulations
 
 We reserve the right to remove any content that violates these guidelines and to suspend or terminate accounts that repeatedly violate them.

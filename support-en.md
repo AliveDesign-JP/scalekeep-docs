@@ -89,7 +89,7 @@ The following reptiles are preset. You can also register any species as a "Custo
 
 ### Q6. How do I delete my community profile or posts?
 
-**A.** Delete individual posts from the post detail screen. To delete your entire community profile, go to Settings → Community Profile → Delete Profile. Note: deleting the App alone does not remove your community data from our servers.
+**A.** Delete individual posts from the post detail screen or by long-pressing a post. To delete your entire community profile and all associated data (posts, comments, likes, follows), go to Settings → Community Profile → Delete Profile. Note: deleting the App alone does not remove your community data from our servers.
 
 ### Q7. I want to register a species that's not in the presets
 
