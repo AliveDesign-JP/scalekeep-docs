@@ -35,6 +35,7 @@ For questions, feedback, or bug reports, please contact us at:
 - **UVB Light Management**: Record replacement dates and get notified when it's time to replace
 - **Calendar View**: View care records in calendar format
 - **Photo Album**: Save growth memories with photos
+- **Community Feed**: Share care records and photos with reptile keepers worldwide. Like, comment, and follow your favorite keepers
 - **Home Screen Widget**: Check feeding schedules from your iPhone home screen
 - **Data Export**: Export data in CSV/PDF format
 
@@ -82,7 +83,15 @@ The following reptiles are preset. You can also register any species as a "Custo
 3. In each pet's detail screen, make sure a reminder time is set
 4. Make sure Focus Mode or Do Not Disturb is not blocking notifications
 
-### Q5. I want to register a species that's not in the presets
+### Q5. Are my posts public?
+
+**A.** Posts marked as "public" are visible to all ScaleKeep users. You can set each post to private before or after posting. Your display name and avatar are visible when you participate in the community. Your Apple ID and real name are never shared.
+
+### Q6. How do I delete my community profile or posts?
+
+**A.** Delete individual posts from the post detail screen. To delete your entire community profile, go to Settings → Community Profile → Delete Profile. Note: deleting the App alone does not remove your community data from our servers.
+
+### Q7. I want to register a species that's not in the presets
 
 **A.** You can register new species from the "Custom" section in the species selection screen. You can set the species name, category (Snake/Lizard/Turtle/Other), and feeding interval.
 

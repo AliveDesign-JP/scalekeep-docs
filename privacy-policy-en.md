@@ -10,7 +10,7 @@ title: Privacy Policy - ScaleKeep
 
 # Privacy Policy
 
-**Last Updated: January 2, 2026**
+**Last Updated: March 23, 2026**
 
 ## Introduction
 
@@ -23,6 +23,7 @@ ScaleKeep ("we", "our", or "us") is committed to protecting your privacy. This P
 - **Pet Information**: Names, species, morphs, birth dates, and other details about your reptile pets
 - **Care Records**: Feeding logs, weight measurements, shedding records, and notes
 - **Photos**: Images you choose to attach to your pet profiles
+- **Community Feed**: If you choose to participate in the community feed, your display name, avatar, posts (including photos and text), likes, comments, and follow relationships will be stored in Apple's CloudKit Public Database and visible to other users of the App
 
 ### Information Collected Automatically
 
@@ -44,6 +45,20 @@ We use the information we collect to:
 
 All your data is stored locally on your device. We do not have access to your personal data.
 
+### iCloud Sync
+
+If you enable iCloud sync, your pet care data will be stored in your personal iCloud account using Apple's CloudKit Private Database. This data is protected by Apple's security measures and is only accessible by you through your Apple ID.
+
+### Community Feed (CloudKit Public Database)
+
+When you participate in the community feed, certain data is stored in Apple's CloudKit Public Database, shared across all users of the App:
+
+- **Visible to all users**: Display name, avatar, public posts and photos, like counts, comments, follower/following counts
+- **Not visible to other users**: Your iCloud account identity or Apple ID. You are identified only by the display name you choose.
+- You may set individual posts to private at any time.
+- You may delete your posts and comments at any time from within the App.
+- Deleting the App does not automatically remove data from CloudKit Public Database. To delete your community data, use the delete function in Settings before uninstalling.
+
 ### We Do Not
 
 - Sell your personal information to third parties
@@ -58,6 +73,15 @@ The App may use the following Apple services:
 
 - **StoreKit**: For processing in-app purchases
 - **Push Notifications**: For sending care reminders (optional)
+
+### Advertising (Google AdMob)
+
+The free version of the App displays advertisements provided by Google AdMob. AdMob may collect the following information:
+
+- Device advertising identifier (IDFA)
+- Device information and IP address
+
+Personalized advertising is based on your consent preferences shown at app launch. Pro subscribers do not see advertisements. For more information, see [Google's Privacy Policy](https://policies.google.com/privacy).
 
 ### Analytics
 
@@ -75,6 +99,8 @@ You have the right to:
 - Delete your data at any time by uninstalling the App
 - Disable notifications in the App settings
 - Request information about what data we collect
+- Delete your community posts, comments, and profile at any time from within the App
+- Change your display name and avatar at any time
 
 ## Data Retention
 

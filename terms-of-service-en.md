@@ -10,7 +10,7 @@ title: Terms of Service - ScaleKeep
 
 # Terms of Service
 
-**Last Updated: January 2, 2026**
+**Last Updated: March 23, 2026**
 
 <div class="toc" markdown="1">
 <h4>Table of Contents</h4>
@@ -41,6 +41,8 @@ ScaleKeep is a mobile application designed to help reptile owners manage and tra
 - Weight and shedding records
 - Care reminders and notifications
 - Photo album
+- Community feed (photo sharing, likes, comments, and following)
+- User profile with display name and avatar
 - Data export functionality
 
 ## User Accounts and Data
@@ -48,6 +50,14 @@ ScaleKeep is a mobile application designed to help reptile owners manage and tra
 ### Your Data
 
 You are responsible for the accuracy and completeness of the data you enter into the App. We recommend regularly backing up your data using the export feature.
+
+### Community Profile
+
+To participate in the community feed, you will be prompted to create a community profile with a display name and optional avatar. Your display name and avatar are visible to all users of the App.
+
+Your profile is linked to your iCloud account for authentication. Your Apple ID and real name are never shared with other users.
+
+You may update or delete your community profile at any time from the App's Settings screen.
 
 ### Data Loss
 
@@ -77,6 +87,20 @@ You agree not to:
 - Remove or alter any proprietary notices or labels on the App
 - Use the App to harm or exploit animals in any way
 
+### Community Content
+
+When using the community feed, you agree not to post content that:
+
+- Depicts or promotes animal abuse, neglect, or harm
+- Contains sexually explicit or violent material
+- Harasses, threatens, or intimidates other users
+- Infringes on the intellectual property rights of others
+- Contains spam, commercial solicitations, or misleading information
+- Contains links to external websites
+- Violates any applicable laws or regulations
+
+We reserve the right to remove any content that violates these guidelines and to suspend or terminate accounts that repeatedly violate them.
+
 ## Intellectual Property
 
 ### Our Rights
@@ -87,6 +111,12 @@ The App, including its original content, features, and functionality, is owned b
 
 You retain ownership of all data and content you create within the App. By using the App, you grant us a limited license to process your data solely for the purpose of providing the App's services.
 
+### Your Content
+
+You retain ownership of all content you create and post within the App. By posting to the community feed, you grant us a worldwide, non-exclusive, royalty-free license to display, distribute, and reproduce that content within the App solely for operating the community feed. This license terminates when you delete the content or your profile.
+
+You represent and warrant that you have all necessary rights to the content you post.
+
 ## Disclaimers
 
 ### Veterinary Advice
@@ -96,6 +126,10 @@ The App is designed as a record-keeping tool only. It does not provide veterinar
 ### Accuracy of Information
 
 While we strive to provide accurate species information and care guidelines, this information is for general reference only. Care requirements may vary based on individual animals, local conditions, and other factors.
+
+### User-Generated Content
+
+We do not endorse, verify, or take responsibility for content posted by users in the community feed. Content represents the views of individual users only. We are not liable for any user-posted content that you may find offensive, inaccurate, or objectionable.
 
 ### Service Availability
 
