@@ -136,7 +136,7 @@ The following reptiles are preset. You can also register any species as a "Custo
 | Item | Details |
 |------|---------|
 | App Name | ScaleKeep |
-| Current Version | 1.0 |
+| Current Version | 2.0 |
 | Supported OS | iOS 17.0 or later |
 | Developer | Alive Design |
 
