@@ -114,7 +114,7 @@ iCloud同期を有効にすると、ペットケアデータはAppleのCloudKit 
 
 このプライバシーポリシーについてご質問がある場合は、以下までご連絡ください：
 
-**メール**: s-suita@alivedesign.jp
+**メール**: info@alivedesign.jp
 
 ---
 

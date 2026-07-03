@@ -19,7 +19,7 @@ lang: ja
 
 ご質問・ご要望・不具合報告は、以下のメールアドレスまでお送りください。
 
-**メールアドレス**: [s-suita@alivedesign.jp](mailto:s-suita@alivedesign.jp)
+**メールアドレス**: [info@alivedesign.jp](mailto:info@alivedesign.jp)
 
 ---
 

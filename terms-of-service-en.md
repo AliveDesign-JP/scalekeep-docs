@@ -160,7 +160,7 @@ If any provision of these Terms is found to be unenforceable, the remaining prov
 
 If you have any questions about these Terms, please contact us at:
 
-**Email**: s-suita@alivedesign.jp
+**Email**: info@alivedesign.jp
 
 ---
 
