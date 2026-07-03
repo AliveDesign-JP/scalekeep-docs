@@ -26,7 +26,7 @@ Dai-2 Kyoto Building 402, 227 Daikoku-cho, Shichijo-dori Aburanokoji-higashiiru,
 
 ## Phone Number
 
-+81-90-6912-2740
++81-90-3706-7753
 
 *Please contact us via email.
 
