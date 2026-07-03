@@ -32,7 +32,7 @@ Dai-2 Kyoto Building 402, 227 Daikoku-cho, Shichijo-dori Aburanokoji-higashiiru,
 
 ## Email Address
 
-s-suita@alivedesign.jp
+info@alivedesign.jp
 
 ## Pricing
 

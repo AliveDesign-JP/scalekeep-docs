@@ -32,7 +32,7 @@ AliveDesign
 
 ## メールアドレス
 
-s-suita@alivedesign.jp
+info@alivedesign.jp
 
 ## 販売価格
 

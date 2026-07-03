@@ -160,7 +160,7 @@ ScaleKeepは、爬虫類の飼い主がペットのケアを管理・追跡す�
 
 本規約についてご質問がある場合は、以下までご連絡ください：
 
-**メール**: s-suita@alivedesign.jp
+**メール**: info@alivedesign.jp
 
 ---
 
