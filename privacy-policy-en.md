@@ -10,7 +10,7 @@ title: Privacy Policy - ScaleKeep
 
 # Privacy Policy
 
-**Last Updated: March 23, 2026**
+**Last Updated: July 5, 2026**
 
 ## Introduction
 
@@ -27,8 +27,8 @@ ScaleKeep ("we", "our", or "us") is committed to protecting your privacy. This P
 
 ### Information Collected Automatically
 
-- **Device Information**: Device type, operating system version, and app version for troubleshooting purposes
-- **Usage Data**: Anonymous app usage statistics to improve our services (only if you opt-in)
+- **Device Information & Identifiers**: Device type, operating system version, app version, device identifiers, and advertising identifier (IDFA, if you consent to tracking)
+- **Usage Data**: In-app actions and events (screen views, record creation, purchases, etc.), used to improve the App and measure advertising performance (see "Analytics" below)
 
 ## How We Use Your Information
 
@@ -61,9 +61,11 @@ When you participate in the community feed, certain data is stored in Apple's Cl
 
 ### We Do Not
 
-- Sell your personal information to third parties
-- Share your data with advertisers
+- Sell your personal information to third parties for monetary consideration
+- Use the content you enter as pet records (pet information, care records, photos) for advertising purposes
 - Collect unnecessary personal information
+
+> Note: Google, which provides our advertising (AdMob) and analytics (Firebase / Google Analytics), collects and processes device identifiers and usage data to deliver and measure ads (see "Third-Party Services" below). This is separate from the content you enter as pet records.
 
 ## Third-Party Services
 
@@ -83,9 +85,17 @@ The free version of the App displays advertisements provided by Google AdMob. Ad
 
 Personalized advertising is based on your consent preferences shown at app launch. Pro subscribers do not see advertisements. For more information, see [Google's Privacy Policy](https://policies.google.com/privacy).
 
-### Analytics
+### Analytics (Firebase / Google Analytics)
 
-We may use anonymous analytics to understand how users interact with our App. This data cannot be used to identify individual users.
+The App uses Google's Firebase / Google Analytics to measure how the App is used, to improve features, and to measure advertising performance. The information collected includes:
+
+- In-app actions and events (screen views, record creation, purchases, etc.)
+- Device information and identifiers (device ID, app instance ID, advertising identifier (IDFA) if you consent to tracking)
+- Approximate location (based on IP address)
+
+This data may be linked with Google Ads and used to measure and optimize advertising. Personalization and tracking for advertising purposes are based on your choice in the App Tracking Transparency prompt shown at app launch; if you do not allow it, tracking for these purposes is not performed.
+
+For more information, see [Google's Privacy Policy](https://policies.google.com/privacy).
 
 ## Children's Privacy
 
