@@ -84,7 +84,7 @@ The following reptiles are preset. You can also register any species as a "Custo
 
 ### Q5. Where is the Community Feed?
 
-**A.** The community feed is currently unavailable. Your care records are unaffected and continue to work as before. You can delete data you posted in the past from Settings → "Delete Community Data". This item appears only when deletable data is found, and it requires being signed in to iCloud, online, and having iCloud sync on. If the item does not appear, use Settings → "Delete All Data" instead, which deletes your community data as well. If you have already deleted the App, contact us at [info@alivedesign.jp](mailto:info@alivedesign.jp).
+**A.** The community feed is currently unavailable. Your care records are unaffected and continue to work as before. You can delete data you posted in the past from Settings → "Delete Community Data". This item appears only when deletable data is found, and it requires being signed in to iCloud, online, and having iCloud sync on. If the item does not appear, turn iCloud sync on and restart the App. If it still does not appear, or if you have already deleted the App, contact us at [info@alivedesign.jp](mailto:info@alivedesign.jp). "Delete All Data" also removes your community data, but it removes your care records and photos too, so do not use it if you only want to delete your community data.
 
 ### Q6. I want to register a species that's not in the presets
 

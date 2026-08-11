@@ -62,9 +62,13 @@ Purpose and period of retention: We retain this data so that it can be carried o
 
 How to delete it: The App's Settings screen shows "Delete Community Data". This item appears only when deletable data (posts, comments, likes, follows, or a profile) is found, and it requires being signed in to iCloud, online, and having iCloud sync on.
 
-If the item above does not appear, use Settings → "Delete All Data" instead; it deletes your community data as well. Turning iCloud sync on and restarting the App will also make the dedicated item appear.
+If the item above does not appear, turn iCloud sync on and restart the App; the dedicated item will then appear.
 
-Deleting the App does not automatically remove data from CloudKit Public Database, so please delete it before uninstalling. If you have already deleted the App, or if none of the options above are available to you, contact us at [info@alivedesign.jp](mailto:info@alivedesign.jp).
+If it still does not appear, contact us at [info@alivedesign.jp](mailto:info@alivedesign.jp).
+
+Settings → "Delete All Data" also deletes your community data, but it deletes your pet information, care records, photos, and iCloud data as well. Do not use it if you only want to delete your community data.
+
+Deleting the App does not automatically remove data from CloudKit Public Database, so please delete it before uninstalling. If you have already deleted the App, contact us at [info@alivedesign.jp](mailto:info@alivedesign.jp).
 
 Scope of deletion: We delete your post, photo, comment, like, and follow records, and clear your display name, bio, and avatar. The user record that Apple generates automatically cannot be deleted due to how CloudKit works, so it remains as an identifier from which we cannot identify you. Comments that other users left on your posts are their own data and are not deleted.
 
