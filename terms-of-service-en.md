@@ -57,7 +57,7 @@ Because the community feed has been discontinued, community profiles can no long
 
 Profiles created in the past were linked to your iCloud account for authentication. Your Apple ID and real name were never shared with other users.
 
-If you would like a profile and posts you created in the past to be deleted, please contact us at info@alivedesign.jp.
+You can delete a profile and posts you created in the past from Settings → "Delete Community Data" in the App. If that item does not appear, or if you have already deleted the App, contact us at info@alivedesign.jp. See "Community Feed" in our Privacy Policy for details.
 
 ### Data Loss
 
