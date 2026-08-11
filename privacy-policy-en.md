@@ -10,7 +10,7 @@ title: Privacy Policy - ScaleKeep
 
 # Privacy Policy
 
-**Last Updated: July 5, 2026**
+**Last Updated: August 11, 2026**
 
 ## Introduction
 
@@ -23,7 +23,7 @@ ScaleKeep ("we", "our", or "us") is committed to protecting your privacy. This P
 - **Pet Information**: Names, species, morphs, birth dates, and other details about your reptile pets
 - **Care Records**: Feeding logs, weight measurements, shedding records, and notes
 - **Photos**: Images you choose to attach to your pet profiles
-- **Community Feed**: If you choose to participate in the community feed, your display name, avatar, posts (including photos and text), likes, comments, and follow relationships will be stored in Apple's CloudKit Public Database and visible to other users of the App
+- **Community Feed**: This feature has been discontinued and collects nothing new. If you participated in the past, your display name, avatar, posts (including photos and text), likes, comments, and follow relationships remain stored in Apple's CloudKit Public Database (see "Community Feed" below)
 
 ### Information Collected Automatically
 
@@ -43,7 +43,7 @@ We use the information we collect to:
 
 ### Local Storage
 
-All your data is stored locally on your device. We do not have access to your personal data.
+Your pet information, care records, and photos are stored locally on your device, and we do not have access to them. Only data posted to the community feed is stored in the CloudKit Public Database as described below, which we may access in order to handle deletion requests.
 
 ### iCloud Sync
 
@@ -51,13 +51,18 @@ If you enable iCloud sync, your pet care data will be stored in your personal iC
 
 ### Community Feed (CloudKit Public Database)
 
-When you participate in the community feed, certain data is stored in Apple's CloudKit Public Database, shared across all users of the App:
+The community feed has been discontinued and can no longer be viewed or posted to from the App. No new data is collected or made public through it.
 
-- **Visible to all users**: Display name, avatar, public posts and photos, like counts, comments, follower/following counts
-- **Not visible to other users**: Your iCloud account identity or Apple ID. You are identified only by the display name you choose.
-- You may set individual posts to private at any time.
-- You may delete your posts and comments at any time from within the App.
-- Deleting the App does not automatically remove data from CloudKit Public Database. To delete your community data, use the delete function in Settings before uninstalling.
+If you used this feature in the past, the following data remains stored in Apple's CloudKit Public Database:
+
+- Display name, avatar, posts and photos, likes, comments, and follower/following relationships
+- Your iCloud account identity and Apple ID were never visible to other users at any point.
+
+Purpose and period of retention: We retain this data so that it can be carried over if we bring the feature back. We will decide whether to resume it by the end of March 2027, and will erase any remaining data if we do not.
+
+How to delete it: The App's Settings screen shows "Delete Community Data" (only for those who created a profile in the past). Deleting the App does not automatically remove data from CloudKit Public Database, so please delete it before uninstalling. If you have already deleted the App, contact us at [info@alivedesign.jp](mailto:info@alivedesign.jp).
+
+Scope of deletion: We delete your post, photo, comment, like, and follow records, and clear your display name, bio, and avatar. The user record that Apple generates automatically cannot be deleted due to how CloudKit works, so it remains as an identifier from which we cannot identify you. Comments that other users left on your posts are their own data and are not deleted.
 
 ### We Do Not
 
@@ -106,15 +111,21 @@ The App is not intended for children under 13 years of age. We do not knowingly 
 You have the right to:
 
 - Access your personal data
-- Delete your data at any time by uninstalling the App
+- Delete the data on your device at any time by uninstalling the App
 - Disable notifications in the App settings
 - Request information about what data we collect
-- Delete your community posts, comments, and profile at any time from within the App
-- Change your display name and avatar at any time
+- Delete data you previously posted to the community feed (from the App's Settings screen)
+- Request disclosure, correction, or suspension of use of the personal data we hold
+
+How to make a request: Contact us at [info@alivedesign.jp](mailto:info@alivedesign.jp). To verify your identity, we will cross-check the details of your request against the data we hold. We will respond within one month of the request as a rule.
+
+Complaints: If you are not satisfied with our response, you may complain to the Personal Information Protection Commission of Japan ([https://www.ppc.go.jp/en/](https://www.ppc.go.jp/en/)).
 
 ## Data Retention
 
-Your data remains on your device until you delete the App.
+Your pet information, care records, and photos remain on your device until you delete the App. If you enable iCloud sync, the data in the Private Database is retained until you turn sync off or delete it from the Settings screen.
+
+Data posted to the community feed is retained for the purpose and period described under "Community Feed" above.
 
 ## Changes to This Privacy Policy
 
