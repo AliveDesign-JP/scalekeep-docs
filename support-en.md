@@ -35,7 +35,6 @@ For questions, feedback, or bug reports, please contact us at:
 - **UVB Light Management**: Record replacement dates and get notified when it's time to replace
 - **Calendar View**: View care records in calendar format
 - **Photo Album**: Save growth memories with photos
-- **Community Feed**: Share care records and photos with reptile keepers worldwide. Like, comment, and follow your favorite keepers
 - **Home Screen Widget**: Check feeding schedules from your iPhone home screen
 - **Data Export**: Export data in CSV/PDF format
 
@@ -83,15 +82,11 @@ The following reptiles are preset. You can also register any species as a "Custo
 3. In each pet's detail screen, make sure a reminder time is set
 4. Make sure Focus Mode or Do Not Disturb is not blocking notifications
 
-### Q5. Are my posts public?
+### Q5. Where is the Community Feed?
 
-**A.** Posts marked as "public" are visible to all ScaleKeep users. You can set each post to private before or after posting. Your display name and avatar are visible when you participate in the community. Your Apple ID and real name are never shared.
+**A.** The community feed is currently unavailable. Your care records are unaffected and continue to work as before. You can delete data you posted in the past from Settings → "Delete Community Data". This item appears only when deletable data is found, and it requires being signed in to iCloud, online, and having iCloud sync on. If the item does not appear, turn iCloud sync on and restart the App. If it still does not appear, or if you have already deleted the App, contact us at [info@alivedesign.jp](mailto:info@alivedesign.jp). "Delete All Data" also removes your community data, but it removes your care records and photos too, so do not use it if you only want to delete your community data.
 
-### Q6. How do I delete my community profile or posts?
-
-**A.** Delete individual posts from the post detail screen or by long-pressing a post. To delete your entire community profile and all associated data (posts, comments, likes, follows), go to Settings → Community Profile → Delete Profile. Note: deleting the App alone does not remove your community data from our servers.
-
-### Q7. I want to register a species that's not in the presets
+### Q6. I want to register a species that's not in the presets
 
 **A.** You can register new species from the "Custom" section in the species selection screen. You can set the species name, category (Snake/Lizard/Turtle/Other), and feeding interval.
 
@@ -150,7 +145,7 @@ The following reptiles are preset. You can also register any species as a "Custo
 
 ---
 
-*Last updated: January 2026*
+*Last updated: August 2026*
 
 <div class="page-footer">
   <a href="./">Home</a>

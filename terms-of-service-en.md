@@ -10,7 +10,7 @@ title: Terms of Service - ScaleKeep
 
 # Terms of Service
 
-**Last Updated: March 23, 2026**
+**Last Updated: August 11, 2026**
 
 <div class="toc" markdown="1">
 <h4>Table of Contents</h4>
@@ -41,9 +41,9 @@ ScaleKeep is a mobile application designed to help reptile owners manage and tra
 - Weight and shedding records
 - Care reminders and notifications
 - Photo album
-- Community feed (photo sharing, likes, comments, and following)
-- User profile with display name and avatar
 - Data export functionality
+
+The community feed (photo sharing, likes, comments, following, and the user profile with display name and avatar) has been discontinued. Because data posted in the past still exists, the community-related sections below continue to apply.
 
 ## User Accounts and Data
 
@@ -53,11 +53,11 @@ You are responsible for the accuracy and completeness of the data you enter into
 
 ### Community Profile
 
-To participate in the community feed, you will be prompted to create a community profile with a display name and optional avatar. Your display name and avatar are visible to all users of the App.
+Because the community feed has been discontinued, community profiles can no longer be created or updated.
 
-Your profile is linked to your iCloud account for authentication. Your Apple ID and real name are never shared with other users.
+Profiles created in the past were linked to your iCloud account for authentication. Your Apple ID and real name were never shared with other users.
 
-You may update or delete your community profile at any time from the App's Settings screen.
+You can delete a profile and posts you created in the past from Settings → "Delete Community Data" in the App. If that item does not appear, or if you have already deleted the App, contact us at info@alivedesign.jp. See "Community Feed" in our Privacy Policy for details.
 
 ### Data Loss
 
@@ -89,7 +89,7 @@ You agree not to:
 
 ### Community Content
 
-When using the community feed, you agree not to post content that:
+The community feed has been discontinued, so no new posts can be made. The following applies to content posted in the past and still stored. You agreed not to post content that:
 
 - Depicts or promotes animal abuse, neglect, or harm
 - Contains sexually explicit or violent material
@@ -114,7 +114,9 @@ You retain ownership of all data and content you create within the App. By using
 
 ### Your Content
 
-You retain ownership of all content you create and post within the App. By posting to the community feed, you grant us a worldwide, non-exclusive, royalty-free license to display, distribute, and reproduce that content within the App solely for operating the community feed. This license terminates when you delete the content or your profile.
+You retain ownership of all content you create and post within the App. By posting to the community feed, you granted us a worldwide, non-exclusive, royalty-free license to display, distribute, and reproduce that content within the App solely for operating the community feed.
+
+That license to display, distribute, and reproduce ended when the community feed was discontinued. We only store the content in case we bring the feature back. This storage also ends when you delete the content or your profile from the App's Settings screen.
 
 You represent and warrant that you have all necessary rights to the content you post.
 
