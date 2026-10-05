@@ -10,7 +10,7 @@ title: Privacy Policy - ScaleKeep
 
 # Privacy Policy
 
-**Last Updated: August 11, 2026**
+**Last Updated: October 5, 2026**
 
 ## Introduction
 
@@ -28,7 +28,7 @@ ScaleKeep ("we", "our", or "us") is committed to protecting your privacy. This P
 ### Information Collected Automatically
 
 - **Device Information & Identifiers**: Device type, operating system version, app version, device identifiers, and advertising identifier (IDFA, if you consent to tracking)
-- **Usage Data**: In-app actions and events (screen views, record creation, purchases, etc.), used to improve the App and measure advertising performance (see "Analytics" below)
+- **Usage Data**: In-app actions and events. Usage analytics is optional and off by default in version 2.2.1 and later. See "Analytics" below for the data, purposes, and differences from earlier versions.
 
 ## How We Use Your Information
 
@@ -78,7 +78,7 @@ Scope of deletion: We delete your post, photo, comment, like, and follow records
 - Use the content you enter as pet records (pet information, care records, photos) for advertising purposes
 - Collect unnecessary personal information
 
-> Note: Google, which provides our advertising (AdMob) and analytics (Firebase / Google Analytics), collects and processes device identifiers and usage data to deliver and measure ads (see "Third-Party Services" below). This is separate from the content you enter as pet records.
+> Note: Advertising data processing by Google AdMob and usage analytics by Firebase / Google Analytics are separate. In version 2.2.1 and later, analytics consent is not used as advertising consent. Both are separate from the content you enter as pet records (see "Third-Party Services" below).
 
 ## Third-Party Services
 
@@ -93,20 +93,28 @@ The App may use the following Apple services:
 
 The free version of the App displays advertisements provided by Google AdMob. AdMob may collect the following information:
 
-- Device advertising identifier (IDFA)
-- Device information and IP address
+- Device identifiers, including the advertising identifier (IDFA) when its use is authorized
+- Device information, IP address, and approximate region derived from the IP address
+- Ad views and interactions, and app interactions
+- Crash, performance, and other diagnostic information
 
-Personalized advertising is based on your consent preferences shown at app launch. Pro subscribers do not see advertisements. For more information, see [Google's Privacy Policy](https://policies.google.com/privacy).
+This information may be used to deliver and measure advertising, analyze usage, and improve SDK quality.
+
+We use Google's User Messaging Platform (UMP) to check and present advertising choices. UMP may process approximate region, performance information, and interaction information to provide this consent functionality. These advertising and consent functions operate separately from the usage analytics switch.
+
+Advertising choices are presented through a consent form where required for your region and circumstances. In version 2.2.1 and later, Settings → "Privacy choices" provides "Review advertising choices" when privacy options are required. If the consent check fails, ads are paused and Settings provides a way to retry. Pro subscribers do not see advertisements. For more information, see [Google's Privacy Policy](https://policies.google.com/privacy).
 
 ### Analytics (Firebase / Google Analytics)
 
-The App uses Google's Firebase / Google Analytics to measure how the App is used, to improve features, and to measure advertising performance. The information collected includes:
+In version 2.2.1 and later, usage analytics is optional and off until you explicitly enable "Share usage analytics" in Settings → "Privacy choices". This also applies when upgrading if you have not made this new choice. Your choice is saved on this device and is separate from advertising choices and iCloud sync.
 
-- In-app actions and events (screen views, record creation, purchases, etc.)
-- Device information and identifiers (device ID, app instance ID, advertising identifier (IDFA) if you consent to tracking)
-- Approximate location (based on IP address)
+If you enable it, the App uses Firebase / Google Analytics to understand usage and improve ScaleKeep. App-defined events cover onboarding, paywall interactions, purchases and subscription status, and the creation of care records. Event details include the record type (feeding, weight, body length, shedding, cleaning, or UVB), product identifier, onboarding page, paywall entry point, pet count when a limit is reached, and Pro status. These events do not include pet names, photos, notes, or the values you enter in care records.
 
-This data may be linked with Google Ads and used to measure and optimize advertising. Personalization and tracking for advertising purposes are based on your choice in the App Tracking Transparency prompt shown at app launch; if you do not allow it, tracking for these purposes is not performed.
+Firebase may also process automatically collected usage events, device and app information, an app instance identifier, and approximate location derived from IP addresses. In version 2.2.1 and later, the App sets Firebase's advertising storage, advertising user-data, and advertising personalization consent to denied. Enabling usage analytics does not grant these advertising permissions. AdMob has separate advertising settings described above.
+
+You can turn "Share usage analytics" off at any time. The App then stops new analytics collection and resets analytics data stored by the Firebase SDK on the device. This does not itself delete data already received by Google. Turning analytics off does not delete your care records or disable the App's care features.
+
+Earlier versions: Version 2.2.0 and earlier do not have this separate analytics switch. The earlier analytics description applies to those versions: Firebase / Google Analytics measures usage, including screen views, record creation and purchases, device/app identifiers, and approximate location; data may be linked with Google Ads for advertising measurement and optimization, as described in the previous policy. Update to 2.2.1 or later to use the separate analytics control.
 
 For more information, see [Google's Privacy Policy](https://policies.google.com/privacy).
 
@@ -121,6 +129,7 @@ You have the right to:
 - Access your personal data
 - Delete the data on your device at any time by uninstalling the App
 - Disable notifications in the App settings
+- Allow or stop usage analytics in Settings in version 2.2.1 and later
 - Request information about what data we collect
 - Delete data you previously posted to the community feed (from the App's Settings screen)
 - Request disclosure, correction, or suspension of use of the personal data we hold
