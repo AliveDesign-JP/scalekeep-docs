@@ -57,6 +57,7 @@ The following reptiles are preset. You can also register any species as a "Custo
 | Free | Up to 3 | Yes |
 | Pro (Monthly) | Unlimited | No |
 | Pro (Yearly) | Unlimited | No |
+| Pro (Lifetime) | Unlimited | No |
 
 ---
 

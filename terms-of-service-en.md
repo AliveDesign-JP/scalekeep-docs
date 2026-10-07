@@ -10,7 +10,7 @@ title: Terms of Service - ScaleKeep
 
 # Terms of Service
 
-**Last Updated: August 11, 2026**
+**Last Updated: October 7, 2026**
 
 <div class="toc" markdown="1">
 <h4>Table of Contents</h4>
@@ -73,6 +73,14 @@ The App offers a premium subscription ("ScaleKeep Pro") that provides additional
 - Subscription automatically renews unless auto-renew is turned off at least 24 hours before the end of the current period
 - Your account will be charged for renewal within 24 hours prior to the end of the current period
 - You can manage and cancel your subscriptions by going to your App Store account settings after purchase
+
+### Free Trial
+
+The yearly plan may include a free trial for eligible customers. Eligibility and the trial length are shown on the purchase screen. Unless auto-renew is turned off at least 24 hours before the free trial ends, the yearly plan price is charged when the trial ends, and the subscription then renews automatically.
+
+### Lifetime Purchase
+
+ScaleKeep Pro is also available as a one-time purchase with no expiration. The lifetime purchase does not renew and is not charged again. After reinstalling the App or on another device, use "Restore Purchases" to regain access.
 
 ### Refunds
 
