@@ -1,4 +1,5 @@
 ---
+permalink: /support-ja
 layout: default
 title: サポート
 lang: ja

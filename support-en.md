@@ -1,4 +1,5 @@
 ---
+permalink: /support-en
 layout: default
 title: Support
 lang: en

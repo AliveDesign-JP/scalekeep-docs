@@ -1,4 +1,5 @@
 ---
+permalink: /index-ja
 ---
 <!DOCTYPE html>
 <html lang="ja">
@@ -233,6 +234,25 @@
     </div>
   </section>
 
+  <section id="guide">
+    <div class="wrap">
+      <div class="section-head">
+        <h2>飼育の記事</h2>
+        <p>給餌・拒食・多頭飼育の記録の目安を、出典つきでまとめています。</p>
+      </div>
+      {%- assign articles = site.pages | where: "article", true | sort: "guide_order" %}
+      <div class="cards guide-cards">
+        {%- for item in articles limit: 3 %}
+        <a class="card" href="{{ item.url }}">
+          <p class="eyebrow">{{ item.eyebrow }}</p>
+          <h3>{{ item.title }}</h3>
+        </a>
+        {%- endfor %}
+      </div>
+      <p style="text-align:center;margin-top:24px"><a href="guide-ja">記事の一覧を見る</a></p>
+    </div>
+  </section>
+
   <section>
     <div class="wrap">
       <div class="biz">
@@ -260,6 +280,7 @@
 <footer>
   <div class="wrap">
     <nav aria-label="規約とサポート">
+      <a href="guide-ja">飼育の記事</a>
       <a href="privacy-policy-ja">プライバシーポリシー</a>
       <a href="terms-of-service-ja">利用規約</a>
       <a href="support-ja">サポート</a>

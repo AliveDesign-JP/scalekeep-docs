@@ -1,3 +1,8 @@
 title: ScaleKeep
 description: Reptile care management app — track feeding, weight, shedding, and more. Smart reminders keep your care schedule on track.
 theme: jekyll-theme-minimal
+url: https://scalekeep.alivedesign.jp
+# 独自ドメインの直下に置くのでベースのパスは空（指定しないと、手元のビルドで推測のパスが入る）
+baseurl: ""
+plugins:
+  - jekyll-sitemap

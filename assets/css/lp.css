@@ -160,10 +160,54 @@ footer a:hover { color: var(--text); }
 .doc-list { display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; }
 .notice { color: var(--muted); font-size: 14px; border-left: 3px solid var(--warn); padding: 8px 14px; background: rgba(255, 181, 71, 0.06); border-radius: 0 12px 12px 0; }
 
+/* ---- 飼育の記事 ---- */
+.article { width: min(760px, 100% - 32px); margin: 0 auto; }
+.article-head {
+  padding: 40px 0 32px;
+  background: radial-gradient(800px 420px at 80% 0%, rgba(47, 191, 132, 0.22), transparent 70%), linear-gradient(180deg, var(--bg-2), var(--bg));
+  border-bottom: 1px solid var(--panel-border);
+}
+/* 記事の見出しは長いので、LP の見出しの「語の途中で割らない」を外す。対応するブラウザでは文節で折り返す */
+.article-head h1, .article-body h2, .article-body h3, .app-box h2 { word-break: normal; word-break: auto-phrase; overflow-wrap: anywhere; }
+.article-head h1 { font-size: clamp(26px, 3.6vw, 40px); line-height: 1.35; margin-bottom: 16px; }
+.article-head .lead { margin-bottom: 16px; }
+.crumbs { font-size: 13px; color: var(--muted); margin: 0 0 20px; }
+.crumbs a { color: var(--muted); }
+.article-meta { font-size: 13px; color: var(--muted); margin: 0; }
+.article-body { padding: 16px 0 8px; font-size: 16px; line-height: 1.9; }
+.article-body h2 { font-size: clamp(22px, 2.6vw, 28px); margin: 48px 0 14px; }
+.article-body h3 { font-size: 18px; margin: 28px 0 8px; }
+.article-body p, .article-body li { color: rgba(242, 247, 244, 0.88); }
+.article-body ul, .article-body ol { padding-left: 1.4em; }
+.article-body li + li { margin-top: 6px; }
+.article-body .cite { font-size: 12px; vertical-align: super; line-height: 0; text-decoration: none; margin-left: 1px; }
+.article-body table { display: block; overflow-x: auto; border-collapse: collapse; width: 100%; font-size: 15px; margin: 16px 0 8px; }
+.article-body th, .article-body td { border-bottom: 1px solid var(--panel-border); padding: 10px 12px; text-align: left; vertical-align: top; }
+.article-body th { color: var(--accent-soft); font-weight: 700; white-space: nowrap; }
+.points { background: var(--panel); border: 1px solid var(--panel-border); border-radius: 16px; padding: 18px 22px; margin: 16px 0; }
+.points p { margin: 0 0 8px; font-weight: 700; color: var(--text); }
+.points ul { margin: 0; }
+.sources { font-size: 13px; line-height: 1.7; }
+.article-body .sources li { color: var(--muted); overflow-wrap: anywhere; }
+.article-notice { margin: 40px 0 24px; }
+.app-box { background: linear-gradient(135deg, rgba(47, 191, 132, 0.16), rgba(255, 181, 71, 0.08)); border: 1px solid var(--panel-border); border-radius: var(--radius); padding: 28px; display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 20px; align-items: center; margin-bottom: 72px; }
+.app-box h2 { font-size: clamp(20px, 2.4vw, 26px); }
+.app-box p { color: var(--muted); margin: 0; }
+.app-box .eyebrow { margin-bottom: 8px; }
+.app-box .badge img { height: 54px; width: auto; }
+.guide-list { display: grid; gap: 16px; padding: 32px 0 72px; }
+/* 一覧は記事の本文の枠に入るので、本文の見出しの余白を打ち消す */
+.guide-list .card h3 { margin: 0 0 8px; }
+a.card { display: block; text-decoration: none; color: var(--text); }
+a.card:hover { border-color: rgba(111, 224, 174, 0.5); }
+.card .eyebrow { margin-bottom: 6px; }
+.guide-cards { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+.guide-cards h3 { margin: 0; line-height: 1.5; }
+
 /* ---- 狭い画面 ---- */
 @media (max-width: 860px) {
   /* 列の最小幅を 0 にする（画像の幅の指定で列が広がり、横にはみ出すのを防ぐ） */
-  .hero .wrap, .feature, .biz { grid-template-columns: minmax(0, 1fr); }
+  .hero .wrap, .feature, .biz, .app-box { grid-template-columns: minmax(0, 1fr); }
   .hero .wrap { padding: 48px 0 64px; text-align: center; }
   .hero .lead { margin-left: auto; margin-right: auto; }
   .hero .cta { justify-content: center; }
@@ -171,7 +215,7 @@ footer a:hover { color: var(--text); }
   .feature.reverse .feature-media { order: 0; }
   .feature ul { text-align: left; display: inline-block; }
   .cards { grid-template-columns: 1fr 1fr; }
-  .plans, .doc-list { grid-template-columns: 1fr; }
+  .plans, .doc-list, .guide-cards { grid-template-columns: 1fr; }
   section { padding: 64px 0; }
   .nav-links .hide-sm { display: none; }
   .nav-links { gap: 12px; font-size: 13px; }

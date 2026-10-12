@@ -1,0 +1,17 @@
+---
+layout: guide
+permalink: /guide-ja
+title: 飼育の記事
+description: レオパの給餌の間隔、ボールパイソンの拒食、多頭飼育の記録のつけ方など、爬虫類の飼育と記録の目安を出典つきでまとめた記事の一覧です。
+lead: 給餌・拒食・体重・多頭飼育の記録について、獣医師や飼育ガイドの資料をもとに目安をまとめています。目安には幅があるため、出典もあわせて載せています。
+---
+{%- assign articles = site.pages | where: "article", true | sort: "guide_order" -%}
+<div class="guide-list">
+  {%- for item in articles %}
+  <a class="card" href="{{ item.url }}">
+    <p class="eyebrow">{{ item.eyebrow }}</p>
+    <h3>{{ item.title }}</h3>
+    <p>{{ item.description }}</p>
+  </a>
+  {%- endfor %}
+</div>
