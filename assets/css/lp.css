@@ -146,7 +146,6 @@ h2 { font-size: clamp(28px, 3.6vw, 42px); line-height: 1.2; margin: 0 0 14px; fo
 .biz h2 { font-size: clamp(22px, 2.6vw, 30px); }
 .biz p { color: var(--muted); margin: 0; }
 .button { display: inline-block; padding: 14px 26px; border-radius: 999px; font-weight: 700; text-decoration: none; color: #fff; background: linear-gradient(180deg, var(--accent), var(--accent-deep)); box-shadow: 0 16px 40px rgba(47, 191, 132, 0.3); }
-.button.ghost { background: transparent; border: 1px solid rgba(111, 224, 174, 0.6); box-shadow: none; color: var(--accent-soft); }
 
 /* ---- 最後の CTA とフッター ---- */
 .final { text-align: center; background: radial-gradient(800px 400px at 50% 0%, rgba(47, 191, 132, 0.25), transparent 70%); }
