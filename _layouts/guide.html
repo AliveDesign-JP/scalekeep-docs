@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  {%- assign page_url = page.url | absolute_url -%}
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title }}｜ScaleKeep</title>
+  <meta name="description" content="{{ page.description }}">
+  <link rel="canonical" href="{{ page_url }}">
+
+  <meta name="apple-itunes-app" content="app-id=6759274575">
+
+  <meta property="og:title" content="{{ page.title }}">
+  <meta property="og:description" content="{{ page.description }}">
+  <meta property="og:image" content="{{ '/assets/lp/og-ja.png' | absolute_url }}">
+  <meta property="og:url" content="{{ page_url }}">
+  <meta property="og:type" content="{% if page.article %}article{% else %}website{% endif %}">
+  <meta property="og:locale" content="ja_JP">
+  <meta name="twitter:card" content="summary_large_image">
+
+  <link rel="icon" type="image/x-icon" href="/favicon.ico">
+  <link rel="apple-touch-icon" href="/apple-icon.png">
+  <meta name="theme-color" content="#07130e">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@500;700;800&family=Noto+Sans+JP:wght@400;500;700;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/assets/css/lp.css">
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {%- if page.article %}
+      {
+        "@type": "Article",
+        "headline": {{ page.title | jsonify }},
+        "description": {{ page.description | jsonify }},
+        "inLanguage": "ja",
+        "datePublished": {{ page.date_published | jsonify }},
+        "dateModified": {{ page.date_modified | default: page.date_published | jsonify }},
+        "image": {{ '/assets/lp/og-ja.png' | absolute_url | jsonify }},
+        "mainEntityOfPage": {{ page_url | jsonify }},
+        "author": { "@type": "Organization", "name": "AliveDesign", "url": "https://alivedesign.jp/" },
+        "publisher": { "@type": "Organization", "name": "AliveDesign", "url": "https://alivedesign.jp/" }
+      },
+      {%- endif %}
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          { "@type": "ListItem", "position": 1, "name": "ScaleKeep", "item": {{ '/index-ja' | absolute_url | jsonify }} },
+          { "@type": "ListItem", "position": 2, "name": "飼育の記事", "item": {{ '/guide-ja' | absolute_url | jsonify }} }
+          {%- if page.article %},
+          { "@type": "ListItem", "position": 3, "name": {{ page.title | jsonify }}, "item": {{ page_url | jsonify }} }
+          {%- endif %}
+        ]
+      }
+    ]
+  }
+  </script>
+</head>
+<body>
+
+<nav class="nav" aria-label="サイト">
+  <div class="wrap">
+    <a class="brand" href="/index-ja"><img src="/assets/images/app-icon.png" alt="" width="32" height="32">ScaleKeep</a>
+    <div class="nav-links">
+      <a href="/guide-ja">飼育の記事</a>
+      <a href="/index-ja">アプリの紹介</a>
+      <a class="hide-sm" href="/support-ja">サポート</a>
+    </div>
+  </div>
+</nav>
+
+<header class="article-head">
+  <div class="article">
+    <p class="crumbs"><a href="/index-ja">ScaleKeep</a> › {% if page.article %}<a href="/guide-ja">飼育の記事</a>{% else %}飼育の記事{% endif %}</p>
+    {%- if page.eyebrow %}
+    <p class="eyebrow">{{ page.eyebrow }}</p>
+    {%- endif %}
+    <h1>{{ page.title }}</h1>
+    {%- if page.lead %}
+    <p class="lead">{{ page.lead }}</p>
+    {%- endif %}
+    {%- if page.article %}
+    <p class="article-meta">公開 {{ page.date_published | date: "%Y年%-m月%-d日" }}{% if page.date_modified and page.date_modified != page.date_published %} ・ 更新 {{ page.date_modified | date: "%Y年%-m月%-d日" }}{% endif %} ・ AliveDesign（ScaleKeep の開発元）</p>
+    {%- endif %}
+  </div>
+</header>
+
+<main class="article">
+  <div class="article-body">
+    {{ content }}
+  </div>
+
+  {%- if page.article %}
+  <p class="notice article-notice">この記事は、出典に挙げた資料から飼育の一般的な目安をまとめたもので、診断ではありません。書いているのは ScaleKeep の開発元で、獣医師の監修は受けていません。目安は資料によって幅があり、個体の年齢・大きさ・季節・飼育環境でも変わります。様子がいつもと違って心配なときは、爬虫類を診られる動物病院に相談してください。</p>
+
+  <aside class="app-box" aria-label="アプリの案内">
+    <div>
+      <p class="eyebrow">ScaleKeep で記録する</p>
+      <h2>{{ page.cta_title | default: "給餌と体重の記録を、いつもの手順に。" }}</h2>
+      <p>{{ page.cta_text | default: "給餌・脱皮・体重をまとめて記録できる iPhone アプリです。無料で 3 匹まで登録できます。" }}</p>
+    </div>
+    <a class="badge" href="https://apps.apple.com/jp/app/id6759274575"><img src="/assets/lp/app-store-badge-ja.svg" alt="App Store からダウンロード" width="147" height="54"></a>
+  </aside>
+  {%- endif %}
+</main>
+
+<footer>
+  <div class="wrap">
+    <nav aria-label="規約とサポート">
+      <a href="/privacy-policy-ja">プライバシーポリシー</a>
+      <a href="/terms-of-service-ja">利用規約</a>
+      <a href="/support-ja">サポート</a>
+      <a href="/tokushoho-ja">特定商取引法に基づく表記</a>
+    </nav>
+    <div>&copy; 2026 AliveDesign ・ <a href="mailto:info@alivedesign.jp">info@alivedesign.jp</a></div>
+  </div>
+</footer>
+
+</body>
+</html>
