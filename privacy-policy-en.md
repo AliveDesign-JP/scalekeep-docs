@@ -1,4 +1,5 @@
 ---
+permalink: /privacy-policy-en
 layout: default
 title: Privacy Policy - ScaleKeep
 ---

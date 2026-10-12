@@ -1,4 +1,5 @@
 ---
+permalink: /terms-of-service-en
 layout: default
 title: Terms of Service - ScaleKeep
 ---

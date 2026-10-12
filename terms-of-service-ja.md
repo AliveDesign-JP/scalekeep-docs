@@ -1,4 +1,5 @@
 ---
+permalink: /terms-of-service-ja
 layout: default
 title: 利用規約 - ScaleKeep
 ---

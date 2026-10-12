@@ -1,4 +1,5 @@
 ---
+permalink: /tokushoho-en
 layout: default
 title: Specified Commercial Transactions Act - ScaleKeep
 ---
