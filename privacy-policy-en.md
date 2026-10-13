@@ -11,7 +11,7 @@ title: Privacy Policy - ScaleKeep
 
 # Privacy Policy
 
-**Last Updated: October 5, 2026**
+**Last Updated: October 13, 2026**
 
 ## Introduction
 
@@ -24,6 +24,7 @@ ScaleKeep ("we", "our", or "us") is committed to protecting your privacy. This P
 - **Pet Information**: Names, species, morphs, birth dates, and other details about your reptile pets
 - **Care Records**: Feeding logs, weight measurements, shedding records, and notes
 - **Photos**: Images you choose to attach to your pet profiles
+- **Business Mode Records** (only if you use business mode, which is available when the App is displayed in Japanese): ledger records for licensed animal dealers in Japan (the dates and details of acquiring, selling, handing over, or the death of animals), and the names, animal dealer registration numbers, and addresses of counterparties such as breeders, suppliers, and buyers. Counterparty information is information about third parties that you enter for your own ledger
 - **Community Feed**: This feature has been discontinued and collects nothing new. If you participated in the past, your display name, avatar, posts (including photos and text), likes, comments, and follow relationships remain stored in Apple's CloudKit Public Database (see "Community Feed" below)
 
 ### Information Collected Automatically
@@ -49,6 +50,12 @@ Your pet information, care records, and photos are stored locally on your device
 ### iCloud Sync
 
 If you enable iCloud sync, your pet care data will be stored in your personal iCloud account using Apple's CloudKit Private Database. This data is protected by Apple's security measures and is only accessible by you through your Apple ID.
+
+### Business Mode Records
+
+Like your pet information and care records, business mode records (including counterparty names, registration numbers, and addresses) are stored only on your device and, if you enable iCloud sync, in your iCloud account (CloudKit Private Database). We do not obtain this information or send it to any third party.
+
+When you choose to export the ledger or the periodic report draft as CSV or PDF, the file is created on your device, and the temporary file is deleted when you close the share sheet. Where you share exported files and how you keep them is under your control.
 
 ### Community Feed (CloudKit Public Database)
 
@@ -142,6 +149,8 @@ Complaints: If you are not satisfied with our response, you may complain to the 
 ## Data Retention
 
 Your pet information, care records, and photos remain on your device until you delete the App. If you enable iCloud sync, the data in the Private Database is retained until you turn sync off or delete it from the Settings screen.
+
+Business mode records are retained for the same period as your pet information and care records. "Delete All Pet Data" in Settings also deletes business mode records. Licensed animal dealers in Japan must keep their ledger for five years from the date of entry, so please export and keep the records you need before deleting them.
 
 Data posted to the community feed is retained for the purpose and period described under "Community Feed" above.
 
