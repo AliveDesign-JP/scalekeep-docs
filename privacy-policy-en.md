@@ -74,7 +74,7 @@ If the item above does not appear, turn iCloud sync on and restart the App; the 
 
 If it still does not appear, contact us at [info@alivedesign.jp](mailto:info@alivedesign.jp).
 
-Settings → "Delete All Data" also deletes your community data, but it deletes your pet information, care records, photos, and iCloud data as well. Do not use it if you only want to delete your community data.
+Settings → "Delete All Pet Data" also deletes your community data, but it deletes your pet information, care records, photos, and iCloud data as well. Do not use it if you only want to delete your community data.
 
 Deleting the App does not automatically remove data from CloudKit Public Database, so please delete it before uninstalling. If you have already deleted the App, contact us at [info@alivedesign.jp](mailto:info@alivedesign.jp).
 
@@ -148,7 +148,7 @@ Complaints: If you are not satisfied with our response, you may complain to the 
 
 ## Data Retention
 
-Your pet information, care records, and photos remain on your device until you delete the App. If you enable iCloud sync, the data in the Private Database is retained until you turn sync off or delete it from the Settings screen.
+Your pet information, care records, and photos remain on your device until you delete the App. If you enable iCloud sync, the data in the Private Database is retained until you delete it with "Delete All Pet Data" in Settings. Turning sync off does not delete data in iCloud.
 
 Business mode records are retained for the same period as your pet information and care records. "Delete All Pet Data" in Settings also deletes business mode records. Licensed animal dealers in Japan must keep their ledger for five years from the date of entry, so please export and keep the records you need before deleting them.
 
