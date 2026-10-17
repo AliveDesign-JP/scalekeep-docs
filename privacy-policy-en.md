@@ -11,7 +11,7 @@ title: Privacy Policy - ScaleKeep
 
 # Privacy Policy
 
-**Last Updated: October 13, 2026**
+**Last Updated: October 17, 2026**
 
 ## Introduction
 
@@ -78,7 +78,7 @@ Settings → "Delete All Pet Data" also deletes your community data, but it dele
 
 Deleting the App does not automatically remove data from CloudKit Public Database, so please delete it before uninstalling. If you have already deleted the App, contact us at [info@alivedesign.jp](mailto:info@alivedesign.jp).
 
-Scope of deletion: We delete your post, photo, comment, like, and follow records, and clear your display name, bio, and avatar. The user record that Apple generates automatically cannot be deleted due to how CloudKit works, so it remains as an identifier from which we cannot identify you. Comments that other users left on your posts are their own data and are not deleted.
+Scope of deletion: We delete your post, photo, comment, like, and follow records, and clear your display name, bio, and avatar. The user record that Apple generates automatically cannot be deleted due to how CloudKit works, so it remains as an identifier from which we cannot identify you. Comments that other users left on your posts, and records of other users following you (your followers), are their own data and are not deleted.
 
 ### We Do Not
 
