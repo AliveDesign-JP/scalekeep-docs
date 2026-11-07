@@ -80,8 +80,8 @@ The following reptiles are preset. You can also register any species as a "Custo
 
 **A.** Please check the following:
 1. In iPhone Settings → Notifications → ScaleKeep, make sure notifications are allowed
-2. In the app's Settings, make sure "Feeding Reminders" is turned on
-3. In each pet's detail screen, make sure a reminder time is set
+2. In the app's Settings, make sure "Reminders" is turned on (turning it off stops all ScaleKeep notifications, including feeding, cleaning, UVB bulb, and Health Watch)
+3. In each pet's detail screen, under "Feeding Settings" and "Cleaning Settings", make sure the reminder is on and a reminder time is set
 4. Make sure Focus Mode or Do Not Disturb is not blocking notifications
 
 ### Q5. Where is the Community Feed?
@@ -123,8 +123,8 @@ The following reptiles are preset. You can also register any species as a "Custo
 ### Set Up Notifications
 
 1. Tap "Settings" in the app
-2. Turn on "Feeding Reminders"
-3. Set notification times in each pet's detail screen
+2. Turn on "Reminders" (turning it off stops all notifications)
+3. In each pet's detail screen, turn each reminder on or off and set its time under "Feeding Settings" and "Cleaning Settings"
 
 ---
 
