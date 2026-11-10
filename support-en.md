@@ -33,6 +33,7 @@ For questions, feedback, or bug reports, please contact us at:
 - **Feeding Management**: Record feeding dates and automatically calculate the next feeding date. Get notified when it's time to feed
 - **Growth Tracking**: View weight and length trends in graphs
 - **Shedding Management**: Record from shedding signs to completion
+- <strong>Droppings Log</strong>: Record feces and urates in one tap and see at a glance how many days it's been since the last droppings. You can also note their condition and anything unusual
 - **UVB Light Management**: Record replacement dates and get notified when it's time to replace
 - **Calendar View**: View care records in calendar format
 - **Photo Album**: Save growth memories with photos
@@ -70,7 +71,7 @@ The following reptiles are preset. You can also register any species as a "Custo
 
 ### Q2. What can I do with the free version?
 
-**A.** The free version allows you to register up to 3 pets. All main features including feeding records, weight/length tracking, shedding records, calendar view, and album are available for free. Upgrading to Pro gives you unlimited pet registration and removes ads.
+**A.** The free version allows you to register up to 3 pets. All main features including feeding records, weight/length tracking, shedding records, droppings records, calendar view, and album are available for free. Upgrading to Pro gives you unlimited pet registration and removes ads.
 
 ### Q3. Can I back up my data?
 
