@@ -87,11 +87,20 @@ The following reptiles are preset. You can also register any species as a "Custo
 
 ### Q5. Where is the Community Feed?
 
-**A.** The community feed is currently unavailable. Your care records are unaffected and continue to work as before. You can delete data you posted in the past from Settings → "Delete Community Data". This item appears only when deletable data is found, and it requires being signed in to iCloud, online, and having iCloud sync on. If the item does not appear, turn iCloud sync on and restart the App. If it still does not appear, or if you have already deleted the App, contact us at [info@alivedesign.jp](mailto:info@alivedesign.jp). "Delete All Data" also removes your community data, but it removes your care records and photos too, so do not use it if you only want to delete your community data.
+**A.** The community feed is currently unavailable. Your care records are unaffected and continue to work as before. You can delete data you posted in the past from Settings → "Delete Community Data". This item appears only when deletable data is found, and it requires being signed in to iCloud, online, and having iCloud sync on. If the item does not appear, turn iCloud sync on and restart the App. If it still does not appear, or if you have already deleted the App, contact us at [info@alivedesign.jp](mailto:info@alivedesign.jp). "Delete All Pet Data" also removes your community data, but it removes your care records and photos too, so do not use it if you only want to delete your community data.
 
 ### Q6. I want to register a species that's not in the presets
 
 **A.** You can register new species from the "Custom" section in the species selection screen. You can set the species name, category (Snake/Lizard/Turtle/Other), and feeding interval.
+
+### Q7. How do I delete my records completely?
+
+<strong>A.</strong> Go to "Settings" → "Delete All Pet Data" in the App. This deletes all pets including archived pets, records, photos, custom species and foods, and the data synced to iCloud. This cannot be undone.
+
+- To delete the data in iCloud too, sign in to iCloud with the Apple Account you used for syncing and make sure you are online. If you are not signed in, the data in iCloud stays and the App tells you so.
+- Deleting the App removes the data on your device, but if iCloud sync was on, the data in iCloud stays (it comes back if you reinstall with sync on). To delete everything, use "Delete All Pet Data" before deleting the App.
+- Turning iCloud sync off does not delete the data in iCloud.
+- Leaving Pro never deletes your pets or records.
 
 ---
 
